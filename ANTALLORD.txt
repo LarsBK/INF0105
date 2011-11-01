@@ -5,5 +5,5 @@
  556 kronikk.tex
  711 naturlig.tex
 1433 reservedeler.tex
-2199 rettigheter.tex
-8927 total
+2033 rettigheter.tex
+8761 total
