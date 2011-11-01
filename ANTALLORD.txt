@@ -2,8 +2,8 @@
 1681 individ.tex
  326 ingress.tex
  746 konklusjon.tex
- 557 kronikk.tex
+ 567 kronikk.tex
  590 naturlig.tex
 1433 reservedeler.tex
 1663 rettigheter.tex
-7938 total
+7948 total
