@@ -4,6 +4,6 @@
  746 konklusjon.tex
  556 kronikk.tex
  711 naturlig.tex
-1398 reservedeler.tex
-2177 rettigheter.tex
-8870 total
+1433 reservedeler.tex
+2199 rettigheter.tex
+8927 total
