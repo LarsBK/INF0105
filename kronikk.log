@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.2.17)  1 NOV 2011 15:31
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.2.17)  1 NOV 2011 15:36
 entering extended mode
  %&-line parsing enabled.
 **kronikk.tex
@@ -273,7 +273,8 @@ Package: inputenc 2006/05/05 v1.1b Input encoding file
 
 (/local/opt/texlive/2007/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2006/05/05 v1.1b Input encoding file
-)) (./kronikk.aux)
+))
+No file kronikk.aux.
 \openout1 = `kronikk.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -339,8 +340,8 @@ File: ifi-logo-black.pdf Graphic file (type pdf)
  <use ifi-logo-black.pdf> [2]
 (./kronikk.aux) ) 
 Here is how much of TeX's memory you used:
- 2287 strings out of 94073
- 28786 string characters out of 1163005
+ 2285 strings out of 94073
+ 28762 string characters out of 1163005
  76789 words of memory out of 1500000
  5541 multiletter control sequences out of 10000+50000
  19156 words of font info for 36 fonts, out of 1200000 for 2000
