@@ -1,9 +1,9 @@
 1099 fremtiden.tex
 1863 individ.tex
  320 ingress.tex
- 631 konklusjon.tex
+ 746 konklusjon.tex
  556 kronikk.tex
- 734 naturlig.tex
+ 711 naturlig.tex
 1398 reservedeler.tex
-2164 rettigheter.tex
-8765 total
+2177 rettigheter.tex
+8870 total
